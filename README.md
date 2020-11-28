@@ -5,4 +5,6 @@ Hello everyone, in this repository we have for now only shared the results of ou
 --> Code and complete results will be published soon !! 
 
 
+# Microsoft ICE Stitched Image
 
+![alt text](https://github.com/Uzair-Khattak/Image-Stitching-Results/blob/main/ICE%20Result.jfif)
