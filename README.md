@@ -8,3 +8,17 @@ Hello everyone, in this repository we have for now only shared the results of ou
 # Microsoft ICE Stitched Image
 
 ![alt text](https://github.com/Uzair-Khattak/Image-Stitching-Results/blob/main/ICE%20Result.jfif)
+
+
+# Our Stitching result, with Linear Blending (and without dataset preprocessing and cleaning)
+
+![alt text](https://github.com/Uzair-Khattak/Image-Stitching-Results/blob/main/Linear%20Blend.jfif)
+
+# Our Stitching result, with Laplace Blending (With dataset preprocessing and cleaning)
+
+![alt text](https://github.com/Uzair-Khattak/Image-Stitching-Results/blob/main/Laplace%20blending.PNG)
+
+-------------------------
+Complete Results and Analysis will be published soon ! 
+
+Our team --> Muhammad Uzair Khattak , Momin Ahmad Khan , Talha Mehboob , Muhammad Zeeshan Karamat
